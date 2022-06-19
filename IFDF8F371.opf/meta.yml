@@ -1,0 +1,146 @@
+id: IFDF8F371
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:34:03.756784'
+last_modified: '2022-06-19T17:34:03.756789'
+parser: null
+source_metadata:
+  title: Tengyur
+  language: de
+  description: 'Texts from the Tengyur (bstan ''gyur), the canonical collection of
+    translated treatises:'
+  volume:
+    f06CA:
+      title: In Praise of the Three Jewels
+      base_file: f06CA.txt
+      order: 1
+      parent: Praise
+    f8EFB:
+      title: In Praise of the Twelve Deeds of the Buddha
+      base_file: f8EFB.txt
+      order: 2
+      parent: Praise
+    f5C64:
+      title: Ultimate Praise of the Noble and Venerable Mañjuśrī
+      base_file: f5C64.txt
+      order: 3
+      parent: Praise
+    f4E0E:
+      title: In Praise of the Three Jewels
+      base_file: f4E0E.txt
+      order: 4
+      parent: Praise
+    fA24B:
+      title: Summary of the Root Downfalls of the Vajra Vehicle
+      base_file: fA24B.txt
+      order: 5
+      parent: Tantra
+    f4605:
+      title: 'The Fulfilment of All Aspirations: In Praise of Noble Tārā'
+      base_file: f4605.txt
+      order: 6
+      parent: Tantra
+    f453D:
+      title: Praise of Noble Avalokiteśvara (Tengyur version)
+      base_file: f453D.txt
+      order: 7
+      parent: Tantra
+    fDB19:
+      title: An Instruction on Pure View and Conduct
+      base_file: fDB19.txt
+      order: 8
+      parent: Tantra
+    fF277:
+      title: Taking the Vows of Sojong
+      base_file: fF277.txt
+      order: 9
+      parent: Tantra
+    f48A0:
+      title: The Ganges Mahāmudrā Instructions
+      base_file: f48A0.txt
+      order: 10
+      parent: Tantra
+    f48E9:
+      title: The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+      base_file: f48E9.txt
+      order: 11
+      parent: Tantra
+    f97C2:
+      title: The Bodhisattva’s Garland of Jewels
+      base_file: f97C2.txt
+      order: 12
+      parent: Middle Way
+    fF485:
+      title: The Lamp for the Path to Enlightenment
+      base_file: fF485.txt
+      order: 13
+      parent: Middle Way
+    fE9BB:
+      title: An Extensive Commentary on the Four Immeasurables
+      base_file: fE9BB.txt
+      order: 14
+      parent: Middle Way
+    f85F9:
+      title: Verses on the Heart of Dependent Origination
+      base_file: f85F9.txt
+      order: 15
+      parent: Middle Way
+    fDF3A:
+      title: The Seven Branches for Practising the Sacred Dharma
+      base_file: fDF3A.txt
+      order: 16
+      parent: Middle Way
+    fCB85:
+      title: 'Bodhicaryāvatāra—Chapter 1: The Benefits of Bodhicitta'
+      base_file: fCB85.txt
+      order: 17
+      parent: Middle Way
+    f3E40:
+      title: 'Bodhicaryāvatāra—Chapter 2: Confession of Negativity'
+      base_file: f3E40.txt
+      order: 18
+      parent: Middle Way
+    f4AD4:
+      title: 'Bodhicaryāvatāra—Chapter 3: Fully Adopting Bodhicitta'
+      base_file: f4AD4.txt
+      order: 19
+      parent: Middle Way
+    f4498:
+      title: Unravelling Mantra’s Meaning in The Heart of Wisdom Sūtra
+      base_file: f4498.txt
+      order: 20
+      parent: Sūtra Commentaries
+    fCDA9:
+      title: Commentary on the Noble Essence of the Dharmadhātu
+      base_file: fCDA9.txt
+      order: 21
+      parent: Abhidharma
+    fA66C:
+      title: Extremely Concise Dedication
+      base_file: fA66C.txt
+      order: 22
+      parent: Miscellaneous
+    f443E:
+      title: Maitreya's Aspiration
+      base_file: f443E.txt
+      order: 23
+      parent: Miscellaneous
+    fFBAC:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      base_file: fFBAC.txt
+      order: 24
+      parent: Miscellaneous
+    f44FC:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      base_file: f44FC.txt
+      order: 25
+      parent: Miscellaneous
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
